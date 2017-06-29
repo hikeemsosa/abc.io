@@ -1,4 +1,5 @@
 ``` <!Doctype html>
+<html>
 <head>
 <title><p>2nd website try!</p>
 </title>
@@ -7,5 +8,5 @@
 <footer><p>i'm suposed to be a footer.</p>
 </footer>
 </body>
-
+</html>
 ```
